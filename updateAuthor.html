@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Upate Author Form</title>
+</head>
+<body>
+<form action="updateAuthor.php" method="post">
+    <h1>Update Author information</h1>
+    <p>
+        Enter new information in field you want to change only.
+    </p>
+    <p>
+        <label for="Author_id">Author_ID:</label>
+        <input type="number" name="author_id" id="author_id">
+    </p>
+    <p>
+        <label for="name">Name:</label>
+        <input type="text" name="Name" id="Name">
+    </p>
+    <p>
+        <label for="hometown">Hometown:</label>
+        <input type="text" name="hometown" id="hometown">
+    </p>
+   <p>
+       gender (leave unselected if you don't want to update):<br>
+       <input type="hidden" name="gender" value="" checked>
+        <input type="radio" name="gender" value="male" > Male<br>
+        <input type="radio" name="gender" value="female"> Female<br>
+        <input type="radio" name="gender" value="other" > Other<br>
+    </p>
+    <p>
+    <label for="birth_date">Birth_date:</label>
+    <input type="date" name="birth_date" id="birth_date">
+    </p>
+    <input type= "submit" value="Update Author Information">
+    <input type= "reset" value="Reset">
+    <a href="homepage.html">Return to Home Page</a>
+</form>
+</body>
+</html>

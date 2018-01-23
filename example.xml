@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><holdings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.loc.gov/standards/iso20775/N121_ISOholdings_v4.xsd">
+<holding>
+<institutionIdentifier>
+<value>OCC</value>
+<typeOrSource>
+<pointer>http://worldcat.org/registry/institutions/</pointer>
+</typeOrSource>
+</institutionIdentifier>
+<physicalLocation>OCLC Library</physicalLocation>
+<physicalAddress>
+<text>Dublin, OH 43017 United States</text>
+</physicalAddress>
+<electronicAddress>
+<text>http://www.worldcat.org/wcpa/oclc/717007464?page=frame&amp;url=https%3A%2F%2Foclclibrary.on.worldcat.org%2Fsearch%3FdatabaseList%3D%26queryString%3Dno%253A154684429%26checksum%3De2237d4b563d9c2f693a08e9a6a4013e&amp;title=OCLC+Library&amp;linktype=opac&amp;detail=OCC%3AOCLC+Library%3A&amp;app=wcapi&amp;id=OCPSB-</text>
+</electronicAddress>
+<holdingSimple>
+<copiesSummary>
+<copiesCount>1</copiesCount>
+</copiesSummary>
+</holdingSimple>
+</holding>
+<holding>
+<institutionIdentifier>
+<value>OSU</value>
+<typeOrSource>
+<pointer>http://worldcat.org/registry/institutions/</pointer>
+</typeOrSource>
+</institutionIdentifier>
+<physicalLocation>Ohio State University Libraries</physicalLocation>
+<physicalAddress>
+<text>Columbus, OH 43210 United States</text>
+</physicalAddress>
+<electronicAddress>
+<text>http://www.worldcat.org/wcpa/oclc/717007464?page=frame&amp;url=http%3A%2F%2Flibrary.ohio-state.edu%2Fsearch%2Fi0596554605%26checksum%3D67a81dee6b8322cfa61893b7c3dc3f5d&amp;title=Ohio+State+University+Libraries&amp;linktype=opac&amp;detail=OSU%3AOhio+State+University+Libraries%3AARL Library&amp;app=wcapi&amp;id=OCPSB-</text>
+</electronicAddress>
+<holdingSimple>
+<copiesSummary>
+<copiesCount>1</copiesCount>
+</copiesSummary>
+</holdingSimple>
+</holding>
+<holding>
+<institutionIdentifier>
+<value>OHI</value>
+<typeOrSource>
+<pointer>http://worldcat.org/registry/institutions/</pointer>
+</typeOrSource>
+</institutionIdentifier>
+<physicalLocation>State Library of Ohio</physicalLocation>
+<physicalAddress>
+<text>Columbus, OH 43201 United States</text>
+</physicalAddress>
+<electronicAddress>
+<text>http://www.worldcat.org/wcpa/oclc/717007464?page=frame&amp;url=http%3A%2F%2Fcatalog.library.ohio.gov%2Fsearch%2Fo154684429%26checksum%3Da67d0490e6ba6f59a9f64c92bd3671c9&amp;title=State+Library+of+Ohio&amp;linktype=opac&amp;detail=OHI%3AState+Library+of+Ohio%3AState or National Library&amp;app=wcapi&amp;id=OCPSB-</text>
+</electronicAddress>
+<holdingSimple>
+<copiesSummary>
+<copiesCount>1</copiesCount>
+</copiesSummary>
+</holdingSimple>
+</holding>
+<holding>
+<institutionIdentifier>
+<value>OCO</value>
+<typeOrSource>
+<pointer>http://worldcat.org/registry/institutions/</pointer>
+</typeOrSource>
+</institutionIdentifier>
+<physicalLocation>Columbus Metropolitan Library</physicalLocation>
+<physicalAddress>
+<text>Columbus, OH 43215 United States</text>
+</physicalAddress>
+<electronicAddress>
+<text>http://www.worldcat.org/wcpa/oclc/717007464?page=frame&amp;url=https%3A%2F%2Fcml.bibliocommons.com%2Fsearch%3Fcustom_query%3Didentifier%3A0596529260%26checksum%3D2ccf88fe84548c25bcccf2fb821a7eff&amp;title=Columbus+Metropolitan+Library&amp;linktype=opac&amp;detail=OCO%3AColumbus+Metropolitan+Library%3APublic Library&amp;app=wcapi&amp;id=OCPSB-</text>
+</electronicAddress>
+<holdingSimple>
+<copiesSummary>
+<copiesCount>1</copiesCount>
+</copiesSummary>
+</holdingSimple>
+</holding>
+<holding>
+<institutionIdentifier>
+<value>ANTCH</value>
+<typeOrSource>
+<pointer>http://worldcat.org/registry/institutions/</pointer>
+</typeOrSource>
+</institutionIdentifier>
+<physicalLocation>Antioch University Library</physicalLocation>
+<physicalAddress>
+<text>Yellow Springs, OH 45387 United States</text>
+</physicalAddress>
+<electronicAddress>
+<text>http://www.worldcat.org/wcpa/oclc/717007464?page=frame&amp;url=https%3A%2F%2Fantioch.on.worldcat.org%2Fsearch%3FdatabaseList%3D%26queryString%3Dbn%253A0596554605%26checksum%3D36e205f10514243010dd2c53a9a60162&amp;title=Antioch+University+Library&amp;linktype=opac&amp;detail=ANTCH%3AAntioch+University+Library%3AAcademic Library&amp;app=wcapi&amp;id=OCPSB-</text>
+</electronicAddress>
+<holdingSimple>
+<copiesSummary>
+<copiesCount>1</copiesCount>
+</copiesSummary>
+</holdingSimple>
+</holding>
+<holding>
+<institutionIdentifier>
+<value>DAY</value>
+<typeOrSource>
+<pointer>http://worldcat.org/registry/institutions/</pointer>
+</typeOrSource>
+</institutionIdentifier>
+<physicalLocation>University of Dayton</physicalLocation>
+<physicalAddress>
+<text>Dayton, OH 45469 United States</text>
+</physicalAddress>
+<electronicAddress>
+<text>http://www.worldcat.org/wcpa/oclc/717007464?page=frame&amp;url=http%3A%2F%2Fflyers.udayton.edu%2Fsearch%2F%7E%3Fsearchtype%3Di%26searcharg%3D0596554605%26checksum%3D131caabb3283d81ee0f8e7fbbd41b4bb&amp;title=University+of+Dayton&amp;linktype=opac&amp;detail=DAY%3AUniversity+of+Dayton%3AAcademic Library&amp;app=wcapi&amp;id=OCPSB-</text>
+</electronicAddress>
+<holdingSimple>
+<copiesSummary>
+<copiesCount>1</copiesCount>
+</copiesSummary>
+</holdingSimple>
+</holding>
+<holding>
+<institutionIdentifier>
+<value>OUN</value>
+<typeOrSource>
+<pointer>http://worldcat.org/registry/institutions/</pointer>
+</typeOrSource>
+</institutionIdentifier>
+<physicalLocation>Ohio University</physicalLocation>
+<physicalAddress>
+<text>Athens, OH 45701 United States</text>
+</physicalAddress>
+<electronicAddress>
+<text>http://www.worldcat.org/wcpa/oclc/717007464?page=frame&amp;url=http%3A%2F%2Falice.library.ohiou.edu%2Fsearch%2Fi0596554605%26checksum%3D70ce071fcf5af1df2a8451ce8691fb8c&amp;title=Ohio+University&amp;linktype=opac&amp;detail=OUN%3AOhio+University%3AAcademic Library&amp;app=wcapi&amp;id=OCPSB-</text>
+</electronicAddress>
+<holdingSimple>
+<copiesSummary>
+<copiesCount>1</copiesCount>
+</copiesSummary>
+</holdingSimple>
+</holding>
+<holding>
+<institutionIdentifier>
+<value>XAV</value>
+<typeOrSource>
+<pointer>http://worldcat.org/registry/institutions/</pointer>
+</typeOrSource>
+</institutionIdentifier>
+<physicalLocation>Xavier University</physicalLocation>
+<physicalAddress>
+<text>Cincinnati, OH 45207 United States</text>
+</physicalAddress>
+<electronicAddress>
+<text>http://www.worldcat.org/wcpa/oclc/717007464?page=frame&amp;url=http%3A%2F%2Fxplore.xavier.edu%2Fsearch%2Fi0596554605%26checksum%3Dab6b2da65bf32d0c218cf293f29dd8e3&amp;title=Xavier+University&amp;linktype=opac&amp;detail=XAV%3AXavier+University%3AAcademic Library&amp;app=wcapi&amp;id=OCPSB-</text>
+</electronicAddress>
+<holdingSimple>
+<copiesSummary>
+<copiesCount>1</copiesCount>
+</copiesSummary>
+</holdingSimple>
+</holding>
+<holding>
+<institutionIdentifier>
+<value>CIN</value>
+<typeOrSource>
+<pointer>http://worldcat.org/registry/institutions/</pointer>
+</typeOrSource>
+</institutionIdentifier>
+<physicalLocation>University of Cincinnati - Main Campus</physicalLocation>
+<physicalAddress>
+<text>Cincinnati, OH 45221 United States</text>
+</physicalAddress>
+<electronicAddress>
+<text>http://www.worldcat.org/wcpa/oclc/717007464?page=frame&amp;url=http%3A%2F%2Fuclid.uc.edu%2Fsearch%2Fi0596554605%26checksum%3D08ee5362e87ba54efa1670660978ff45&amp;title=University+of+Cincinnati+-+Main+Campus&amp;linktype=opac&amp;detail=CIN%3AUniversity+of+Cincinnati+-+Main+Campus%3AARL Library&amp;app=wcapi&amp;id=OCPSB-</text>
+</electronicAddress>
+<holdingSimple>
+<copiesSummary>
+<copiesCount>1</copiesCount>
+</copiesSummary>
+</holdingSimple>
+</holding>
+<holding>
+<institutionIdentifier>
+<value>WV3</value>
+<typeOrSource>
+<pointer>http://worldcat.org/registry/institutions/</pointer>
+</typeOrSource>
+</institutionIdentifier>
+<physicalLocation>West Virginia University at Parkersburg</physicalLocation>
+<physicalAddress>
+<text>Parkersburg, WV 26104 United States</text>
+</physicalAddress>
+<electronicAddress>
+<text>http://www.worldcat.org/wcpa/oclc/717007464?page=frame&amp;url=http%3A%2F%2F157.182.203.197%3A12108%2Fvwebv%2Fsearch%3FsearchCode1%3DISBN%26searchType%3D2%26argType1%3Dany%26searchArg1%3D0596554605%26checksum%3D8c276208060b5015e34c1669fb925c41&amp;title=West+Virginia+University+at+Parkersburg&amp;linktype=opac&amp;detail=WV3%3AWest+Virginia+University+at+Parkersburg%3AAcademic Library&amp;app=wcapi&amp;id=OCPSB-</text>
+</electronicAddress>
+<holdingSimple>
+<copiesSummary>
+<copiesCount>1</copiesCount>
+</copiesSummary>
+</holdingSimple>
+</holding>
+</holdings>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Write Review Form</title>
+</head>
+<body>
+<form action="writeReview.php" method="post">
+    <h1>Write Review</h1>
+    <p>
+        <label for="ISBN">ISBN:</label>
+        <input type="number" name="ISBN" id="ISBN">
+    </p>
+    <p>
+        <label for="user_id">User_ID:</label>
+        <input type="number" name="ID" id="ID">
+    </p>
+    <p>
+        <label for="rating">Rating:</label>
+        <input type="number" name="rating" id="rating">
+    </p>
+    <p>
+     <textarea rows="4" cols="50" name="review">Enter review here...
+</textarea>
+    </p>
+    <input type= "submit" value="Write review Information">
+    <input type= "reset" value="Reset">
+    <a href="userPage.html">Return to User Page</a>
+</form>
+
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Upate User Form</title>
+</head>
+<body>
+<form action="updateUser.php" method="post">
+    <h1>Upate User</h1>
+    <p>
+        Enter new information in field you want to change only.
+    </p>
+	<p>
+        <label for="id">ID:</label>
+        <input type="number" name="ID" id="ID" required>
+    </p>
+    <p>
+        <label for="name">Name:</label>
+        <input type="text" name="Name" id="Name">
+    </p>
+    <p>
+        <label for="address">Address:</label>
+        <input type="text" name="Address" id="Address">
+     </p>
+    <input type= "submit" value="Update User Information">
+    <input type= "reset" value="Reset">
+    <a href="userPage.html">Return to User Page</a>
+</form>
+</body>
+</html>

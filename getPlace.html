@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Click the button to get your coordinates.</p>
+
+<button onclick="getLocation()">Get Location</button>
+
+<p id="demo"></p>
+
+<script>
+var x = document.getElementById("demo");
+
+function getLocation() {
+    if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(showPosition);
+    } else { 
+        x.innerHTML = "Geolocation is not supported by this browser.";
+    }
+}
+
+function showPosition(position) {
+    x.innerHTML = "Latitude: " + position.coords.latitude + 
+    "<br>Longitude: " + position.coords.longitude;
+}
+
+
+$(document).ready(function () {
+    createCookie("lat", $(window).height(), "10");
+    });
+   
+    function createCookie(name, value, days) {
+    var expires;
+    if (days) {
+     var date = new Date();
+     date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+     expires = "; expires=" + date.toGMTString();
+    } else {
+     expires = "";
+    }
+     document.cookie = escape(name) + "=" + escape(value) + expires + "; path=/";
+    }
+
+    $(document).ready(function () {
+    createCookie("lon", $(window).height(), "10");
+    });
+   
+    function createCookie(name, value, days) {
+    var expires;
+    if (days) {
+     var date = new Date();
+     date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+     expires = "; expires=" + date.toGMTString();
+    } else {
+     expires = "";
+    }
+     document.cookie = escape(name) + "=" + escape(value) + expires + "; path=/";
+    }
+
+
+</script>
+
+</body>
+</html>

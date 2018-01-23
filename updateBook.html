@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Upate Book Form</title>
+</head>
+<body>
+<form action="updateBook.php" method="post">
+    <h1>Update Book Information</h1>
+    <p>
+        Enter new information in field you want to change only.
+    </p>
+    <p>
+        <label for="ISBN">ISBN:</label>
+        <input type="number" name="ISBN" id="ISBN">
+    </p>
+    <p>
+        <label for="name">Tilte:</label>
+        <input type="text" name="Name" id="Name">
+    </p>
+    <p>
+        <label for="series">Series:</label>
+        <input type="text" name="series" id="series">
+    </p>
+    <p>
+        <label for="Publish_date">Publish date:</label>
+        <input type="date" name="publish_date" id="publish_date">
+    </p>
+    <p>
+        <label for="Genre">Genre:</label>
+        <input type="text" name="genre[]" id="genre">   
+        <input type="text" name="genre[]" id="genre">
+        <input type="text" name="genre[]" id="genre">
+        <input type="text" name="genre[]" id="genre">
+        <input type="text" name="genre[]" id="genre">
+	<p>
+    <p>
+        <label for="Number_of_pages">Number of pages:</label>
+        <input type="number" name="pages" id="pages">
+    </p>
+    <p>
+        <label for="publisher">Publisher:</label>
+        <input type="text" name="publisher" id="publiser">
+    </p>
+    <p>
+        <label for="author_id">Author_ID:</label>
+        <input type="number" name="author_id" id="author_id">
+        <input type="number" name="author_id" id="author_id">
+        <input type="number" name="author_id" id="author_id">
+    </p>
+    <input type= "submit" value="Update Book Information">
+    <input type= "reset" value="Reset">
+    <a href="homepage.html">Return to Home Page</a>
+</form>
+</body>
+</html>

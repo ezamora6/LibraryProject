@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Add Record Advance Form</title>
+</head>
+<body>
+<h1>AdvanceBook Info</h1>
+<p>
+    By inputing a valid ISBN it use the goodread api to insert information about author, books, and publisher.<br>
+    Series and information other than name is not insert for publisher, because of limitation of the api.<br>
+</p>
+<form action="curl.php" method="post">
+    <p>
+        <label for="ISBN">ISBN:</label>
+        <input type="number" name="ISBN" id="ISBN">
+    </p>
+    <input type= "submit" value="Insert Book Information">
+    <input type= "reset" value="Reset">
+    <a href="homepage.html">Return to Home Page</a>
+</form>
+</body>
+</html>

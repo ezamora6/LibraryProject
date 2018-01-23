@@ -1,2 +1,2 @@
-# LibraryProject
-Fall 2017 Library Database Project
+# libraryProject
+COP4710 term project
